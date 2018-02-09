@@ -1,6 +1,6 @@
 {
   "name": "harbinger-super-table",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Demo React lib",
   "main": "dist/bundle.js",
   "dependencies": {
