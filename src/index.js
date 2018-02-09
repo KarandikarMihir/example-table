@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 const Table = (props) => (
-    <table>
+    <table className={props.className}>
         <thead>
             <tr>{ props.columns.map((x, i) => <th key={i}>{x}</th>) }</tr>
         </thead>
